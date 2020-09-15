@@ -5,9 +5,10 @@
 
 #### Contact Information
 \
-Phone: +375296769291
-Email: olya.postt@gmail.com
-Address: 220075 Republic of Belarus, Minsk, Bachilo str. 2-183
+> Phone: +375296769291
+> Email: olya.postt@gmail.com
+> Address: 220075 Republic of  
+> Belarus, Minsk, Bachilo str. 2-183
 ___
 
 #### Summary
