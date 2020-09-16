@@ -1,0 +1,35 @@
+    .wrapper {
+        max-width: 1024px;
+        margin: 0 auto;
+        font-size: 18px;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .photo {
+        max-width: 135px;
+    }
+    
+    h3 {
+        line-height: 3;
+    }
+    
+    h5 {
+        font-style: italic;
+    }
+    
+    .address {
+        padding-bottom: 20px;
+        border-bottom: 2px solid rgba(0, 0, 0, 0.281);
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    ul li:before {
+        content: "\203A ";
+        padding-right: 6px;
+        font-size: 16px;
+        color: #05050581;
+        font-weight: bold;
+    }
